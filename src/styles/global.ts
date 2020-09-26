@@ -20,5 +20,4 @@ export default createGlobalStyle`
     -o-background-size: cover;
     background-size: cover;    
   }
-
 `;
